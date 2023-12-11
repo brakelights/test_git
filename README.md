@@ -1,2 +1,3 @@
 # test_git
-learning purposes
+Learning purposes
+Hello, Odin!
